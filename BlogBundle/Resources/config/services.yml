@@ -1,0 +1,7 @@
+parameters:
+#    skan_blog.example.class: SKanBlog\BlogBundle\Example
+
+services:
+#    skan_blog.example:
+#        class: %skan_blog.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
